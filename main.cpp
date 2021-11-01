@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "flags.h"
+#include "flags.hpp"
 
 using namespace std;
 
