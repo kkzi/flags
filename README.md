@@ -8,6 +8,8 @@ C++ 17 REQUIRED.
 
 ## Quick Start
 
+### Example
+
 ```cpp
 #include <iostream>
 #include "flags.hpp"
@@ -34,6 +36,9 @@ int main(int argc, char** argv)
 }
 
 ```
+
+### Usage
+
 
 ```batch
 :: help
